@@ -2,7 +2,7 @@
 
 1. Clone the repository:
 
-### `git clone https://github.com/yudistirarivaldi/generasi-gigih-homework-Module-2.3.git`
+### `https://github.com/yudistirarivaldi/mile-app-test`
 
 
 2. Install the dependencies:
